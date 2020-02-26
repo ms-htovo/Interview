@@ -4,7 +4,6 @@ using Intercop.Web.UITests.Views.Search;
 using NUnit.Framework;
 using OpenQA.Selenium;
 
-
 namespace Intercop.Web.UITests.Views.Home
 {
     public class HomePage : Common.Common
